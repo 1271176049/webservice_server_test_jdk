@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="webservice_server_test_jdk">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="webservice_server_test_jdk"/>
+        <property name="java-output-path" value="/webservice_server_test_jdk/build/classes"/>
+    </wb-module>
+</project-modules>
